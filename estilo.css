@@ -3,9 +3,6 @@
     text-align: center;
     color: white;
     font-family: Arial,  sans-serif;
-    
-
-     
 }
 
  /*Fondo animado*/
@@ -211,6 +208,8 @@ img {
 
   .contact-wrapper {
     box-shadow: 0 0 20px 0 white;
+    border-radius: 5px;
+    padding: 20px;
 
   }
 
@@ -270,6 +269,7 @@ img {
   
 }
 
+
 /*LARGE SCREEN*/
 @media (min-width: 700px) {
 
@@ -291,6 +291,10 @@ img {
 
 }
 
+.contact-info ul{
+  padding: 30px;
+}
+
 .contenido {
   padding-top: 100px !important;
 }
@@ -300,3 +304,6 @@ img {
   display: inline-block; /* Hace que los enlaces se muestren como bloques en línea */
 }
 
+input {border-radius: 5px;}
+
+textarea {border-radius: 5px;}

@@ -1,0 +1,17 @@
+{
+  "perfil": {
+    "nombre": "Hola, soy Tomas Milanesio",
+    "descripcion": "Entusiasta desarrollador web",
+    "bio": "Hola, soy Tomás, tengo 37 años. Me considero una persona muy responsable y proactiva. Soy autodidacta en mis estudios de programación, idiomas y otras materias. Estoy entusiasmado por crear páginas web y apps además de impulsar el desarrollo de la inteligencia artificial. Si consideras realizar un proyecto junto a mí, estoy a tu disposición, escríbeme..."
+  },
+  "nav": {
+    "navegador": "Inicio Proyectos Habilidades Sobre mi Contacto"
+  },
+  "titulos": {
+     "titles": "Mis proyectos Habilidades Sobre mi"
+  },
+  "formulario-contacto": {
+    "formulario": "Nombre completo Direccion Email Telefono Asunto Mensaje ENVIAR",
+    "contacto": "Mas informacion Voy a contestarte lo antes posible, tambien si prefieres, puedes enviarme un mensaje de Whatsapp."
+  }
+}
